@@ -7,6 +7,12 @@ Sample application of using the <a href="https://blockchain.info/api">Blockchain
 Application contains one function: 
 * Exchange rates for Bitcoin
 
+# ScreenShots
+<div>
+    <img src="/scrs/1.png"</img> 
+    <img src="/scrs/2.png"</img>
+</div>
+
 # Service Information
 Instruction of the installing API service: https://github.com/blockchain/service-my-wallet-v3#installation
 
